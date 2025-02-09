@@ -12,7 +12,8 @@ e. A table documenting our submissions.
 
 
 The link to the GitHub source codes is:
-https://github.com/maayan0813/Homework-2
+https://github.com/maayan0813/Homework-2/tree/main
+
 
 For any questions, feel free to contact us:
 Maayan's email: ancona@post.bgu.ac.il
